@@ -1,0 +1,10 @@
+{
+    "name": "Sandworm",
+    "description": "Sandworm #4",
+    "image": "https://raw.githubusercontent.com/samurai-sbch/sandworm/main/assets/images/4.jpg",
+    "attributes": [
+        {
+            "Color": "Red"
+        }
+    ]
+}
