@@ -1,7 +1,5 @@
 {
-    "name": "Sandworm",
-    "description": "Sandworm #3",
-    "image": "https://raw.githubusercontent.com/samurai-sbch/sandworm/main/assets/images/3.jpg",
+    "image": "https://raw.githubusercontent.com/samurai-sbch/sandworm/main/assets/images/3.png",
     "attributes": [
         {
             "Color": "Gold"
