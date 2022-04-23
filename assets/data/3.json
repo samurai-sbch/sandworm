@@ -2,7 +2,8 @@
     "image": "https://raw.githubusercontent.com/samurai-sbch/sandworm/main/assets/images/3.png",
     "attributes": [
         {
-            "Color": "Gold"
+            "trait_type": "Color",
+            "value": "Gold"
         }
     ]
 }
