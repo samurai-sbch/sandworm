@@ -2,7 +2,8 @@
     "image": "https://raw.githubusercontent.com/samurai-sbch/sandworm/main/assets/images/5.png",
     "attributes": [
         {
-            "Color": "BCH"
+            "trait_type": "Color",
+            "value": "BCH"
         }
     ]
 }
